@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+
+.venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+
 # Distribution / packaging
 .Python
 build/

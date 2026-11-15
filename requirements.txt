@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+torch
+requests
+python-dotenv
+jupyter
+ipykernel
+streamlit
+plotly
