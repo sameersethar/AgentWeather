@@ -1,0 +1,27 @@
+{
+    "collected_at": "2026-11-15T23:45:47.605112+05:00",
+    "location": "Sukkur, Pakistan",
+    "weather": {
+        "city": "Sukkur",
+        "temperature": 23.26,
+        "feels_like": 22.06,
+        "humidity": 16,
+        "pressure": 1014,
+        "weather": "clear sky",
+        "wind_speed": 2.62,
+        "wind_direction": 37,
+        "cloudiness": 0,
+        "timestamp": 1794768350
+    },
+    "air_quality": {
+        "station": "Collectorate, Jodhpur, India",
+        "aqi": 84,
+        "pm25": 84,
+        "pm10": 66,
+        "no2": 8.9,
+        "so2": 3,
+        "co": 3,
+        "o3": 14.8,
+        "timestamp": "2026-11-15T21:00:00+05:30"
+    }
+}
